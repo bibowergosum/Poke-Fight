@@ -1,6 +1,6 @@
 import pool from "../db/pg.js"
 
-//Alle Workshops aus Workshop holen
+//Alle Pokemon aus der Datenbank holen
 export const getAllPokemon = (req, res) => {
      pool
         .query("select * from Workshop")
@@ -8,7 +8,7 @@ export const getAllPokemon = (req, res) => {
         .catch((err) => console.log(err));
 };
 
-//Einzelnen Pokemonn aus Workshop holen
+//Einzelnen Pokemonn aus der Datenbank holen
 export const getSinglePokemon = (req, res) => {
    const id = req.params.id;
     pool
