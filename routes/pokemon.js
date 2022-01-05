@@ -1,5 +1,6 @@
 import express from "express";
 import { getAllPokemon, getSinglePokemon } from "../controllers/pokemon.js"
+
 const Pokemon = express.Router();
 
 //Um alle Pokemons zu bekommen 

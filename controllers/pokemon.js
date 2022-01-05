@@ -1,11 +1,12 @@
-import pool from "../db/pg.js"
+import { pokedex } from "../pokedex.js";
 
 //Alle Pokemon aus der Datenbank holen
 export const getAllPokemon = (req, res) => {
-     pool
-        .query("select * from Workshop")
-        .then((data) => res.json({ Workshop: data.rows}))
-        .catch((err) => console.log(err));
+    try {
+        res.status (200).json(pokedex)
+    } catch (error) {
+        res.status (500).json({error:error.message})
+    }
 };
 
 //Einzelnen Pokemonn aus der Datenbank holen
