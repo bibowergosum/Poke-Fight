@@ -1,6 +1,5 @@
-
-
-export const pokedex = [{
+const pokedex = [
+  {
     "id": 1,
     "name": {
       "english": "Bulbasaur",
@@ -16586,3 +16585,5 @@ export const pokedex = [{
     }
   }
 ];
+
+export default pokedex;

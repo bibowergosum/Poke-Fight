@@ -1,4 +1,4 @@
-import { pokedex } from "../pokedex.js";
+import pokedex from "../pokedex.js";
 
 //Alle Pokemon aus der Datenbank holen
 export const getAllPokemon = (req, res) => {
@@ -9,17 +9,13 @@ export const getAllPokemon = (req, res) => {
     }
 };
 
-//Einzelnen Pokemonn aus der Datenbank holen
+//Einzelnes Pokemonn aus der Datenbank holen
 export const getSinglePokemon = (req, res) => {
-   const id = req.params.id;
-    pool
-         .query("select * from Workshop WHERE id=$1", [id])
-         .then((data) => {
-            if(data.rowCount === 0) {
-                res.status(404).send("Mehr bekommt ihr einfach nicht!")
-            } else {
-                res.status(200).json(data.rows[0]);
-            }
-        })
-         .catch((err) => console.log(err));
+    try {
+        const {id} = req.params;
+        const findPokemon = pokedex.find(pokemon => pokemon.id == id);
+        res.status(200).json(findPokemon)
+    } catch (error) {
+        res.status (500).json({error:error.message})
+    }
 };
