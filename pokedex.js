@@ -2,6 +2,7 @@ const pokedex = [
   {
     "id": 1,
     "name": {
+      "deutsch": "Bisasam",
       "english": "Bulbasaur",
       "japanese": "フシギダネ",
       "chinese": "妙蛙种子",
@@ -23,6 +24,7 @@ const pokedex = [
   {
     "id": 2,
     "name": {
+      "deutsch": "Bisaknosp",
       "english": "Ivysaur",
       "japanese": "フシギソウ",
       "chinese": "妙蛙草",
@@ -44,6 +46,7 @@ const pokedex = [
   {
     "id": 3,
     "name": {
+      "deutsch": "Bisaflor",
       "english": "Venusaur",
       "japanese": "フシギバナ",
       "chinese": "妙蛙花",
@@ -65,6 +68,7 @@ const pokedex = [
   {
     "id": 4,
     "name": {
+      "deutsch": "Glumanda",
       "english": "Charmander",
       "japanese": "ヒトカゲ",
       "chinese": "小火龙",
@@ -85,6 +89,7 @@ const pokedex = [
   {
     "id": 5,
     "name": {
+      "deutsch": "Glutexo",
       "english": "Charmeleon",
       "japanese": "リザード",
       "chinese": "火恐龙",
@@ -105,6 +110,7 @@ const pokedex = [
   {
     "id": 6,
     "name": {
+      "deutsch": "Glurak",
       "english": "Charizard",
       "japanese": "リザードン",
       "chinese": "喷火龙",
@@ -126,6 +132,7 @@ const pokedex = [
   {
     "id": 7,
     "name": {
+      "deutsch": "Schiggy",
       "english": "Squirtle",
       "japanese": "ゼニガメ",
       "chinese": "杰尼龟",
@@ -146,6 +153,7 @@ const pokedex = [
   {
     "id": 8,
     "name": {
+      "deutsch": "Schillok",
       "english": "Wartortle",
       "japanese": "カメール",
       "chinese": "卡咪龟",
@@ -166,6 +174,7 @@ const pokedex = [
   {
     "id": 9,
     "name": {
+      "deutsch": "Turtok",
       "english": "Blastoise",
       "japanese": "カメックス",
       "chinese": "水箭龟",
@@ -186,6 +195,7 @@ const pokedex = [
   {
     "id": 10,
     "name": {
+      "deutsch": "Raupy",
       "english": "Caterpie",
       "japanese": "キャタピー",
       "chinese": "绿毛虫",
@@ -206,6 +216,7 @@ const pokedex = [
   {
     "id": 11,
     "name": {
+      "deutsch": "Safcon",
       "english": "Metapod",
       "japanese": "トランセル",
       "chinese": "铁甲蛹",
@@ -226,6 +237,7 @@ const pokedex = [
   {
     "id": 12,
     "name": {
+      "deutsch": "Smettbo",
       "english": "Butterfree",
       "japanese": "バタフリー",
       "chinese": "巴大蝶",
@@ -247,6 +259,7 @@ const pokedex = [
   {
     "id": 13,
     "name": {
+      "deutsch": "Hornliu",
       "english": "Weedle",
       "japanese": "ビードル",
       "chinese": "独角虫",
@@ -268,6 +281,7 @@ const pokedex = [
   {
     "id": 14,
     "name": {
+      "deutsch": "Kokuna",
       "english": "Kakuna",
       "japanese": "コクーン",
       "chinese": "铁壳蛹",
@@ -289,6 +303,7 @@ const pokedex = [
   {
     "id": 15,
     "name": {
+      "deutsch": "Bibor",
       "english": "Beedrill",
       "japanese": "スピアー",
       "chinese": "大针蜂",
@@ -310,6 +325,7 @@ const pokedex = [
   {
     "id": 16,
     "name": {
+      "deutsch": "Taubsi",
       "english": "Pidgey",
       "japanese": "ポッポ",
       "chinese": "波波",
@@ -331,6 +347,7 @@ const pokedex = [
   {
     "id": 17,
     "name": {
+      "deutsch": "Tauboga",
       "english": "Pidgeotto",
       "japanese": "ピジョン",
       "chinese": "比比鸟",
@@ -352,6 +369,7 @@ const pokedex = [
   {
     "id": 18,
     "name": {
+      "deutsch": "Tauboss",
       "english": "Pidgeot",
       "japanese": "ピジョット",
       "chinese": "大比鸟",
@@ -373,6 +391,7 @@ const pokedex = [
   {
     "id": 19,
     "name": {
+      "deutsch": "Rattfratz",
       "english": "Rattata",
       "japanese": "コラッタ",
       "chinese": "小拉达",
@@ -393,6 +412,7 @@ const pokedex = [
   {
     "id": 20,
     "name": {
+      "deutsch": "Rattikarl",
       "english": "Raticate",
       "japanese": "ラッタ",
       "chinese": "拉达",
@@ -413,6 +433,7 @@ const pokedex = [
   {
     "id": 21,
     "name": {
+      "deutsch": "Habitak",
       "english": "Spearow",
       "japanese": "オニスズメ",
       "chinese": "烈雀",
@@ -434,6 +455,7 @@ const pokedex = [
   {
     "id": 22,
     "name": {
+      "deutsch": "Ibitak",
       "english": "Fearow",
       "japanese": "オニドリル",
       "chinese": "大嘴雀",
@@ -455,6 +477,7 @@ const pokedex = [
   {
     "id": 23,
     "name": {
+      "deutsch": "Rettan",
       "english": "Ekans",
       "japanese": "アーボ",
       "chinese": "阿柏蛇",
@@ -475,6 +498,7 @@ const pokedex = [
   {
     "id": 24,
     "name": {
+      "deutsch": "Arbok",
       "english": "Arbok",
       "japanese": "アーボック",
       "chinese": "阿柏怪",
@@ -495,6 +519,7 @@ const pokedex = [
   {
     "id": 25,
     "name": {
+      "deutsch": "Pikachu",
       "english": "Pikachu",
       "japanese": "ピカチュウ",
       "chinese": "皮卡丘",
@@ -515,6 +540,7 @@ const pokedex = [
   {
     "id": 26,
     "name": {
+      "deutsch": "Raichu",
       "english": "Raichu",
       "japanese": "ライチュウ",
       "chinese": "雷丘",
@@ -535,6 +561,7 @@ const pokedex = [
   {
     "id": 27,
     "name": {
+      "deutsch": "Sandan",
       "english": "Sandshrew",
       "japanese": "サンド",
       "chinese": "穿山鼠",
@@ -555,6 +582,7 @@ const pokedex = [
   {
     "id": 28,
     "name": {
+      "deutsch": "Sandamer",
       "english": "Sandslash",
       "japanese": "サンドパン",
       "chinese": "穿山王",
@@ -575,6 +603,7 @@ const pokedex = [
   {
     "id": 29,
     "name": {
+      "deutsch": "Nidoran♀",
       "english": "Nidoran♀",
       "japanese": "ニドラン♀",
       "chinese": "尼多兰",
@@ -595,6 +624,7 @@ const pokedex = [
   {
     "id": 30,
     "name": {
+      "deutsch": "Nidorina",
       "english": "Nidorina",
       "japanese": "ニドリーナ",
       "chinese": "尼多娜",
@@ -615,6 +645,7 @@ const pokedex = [
   {
     "id": 31,
     "name": {
+      "deutsch": "Nidoqueen",
       "english": "Nidoqueen",
       "japanese": "ニドクイン",
       "chinese": "尼多后",
@@ -636,6 +667,7 @@ const pokedex = [
   {
     "id": 32,
     "name": {
+      "deutsch": "Nidoran♂",
       "english": "Nidoran♂",
       "japanese": "ニドラン♂",
       "chinese": "尼多朗",
@@ -656,6 +688,7 @@ const pokedex = [
   {
     "id": 33,
     "name": {
+      "deutsch": "Nidorino",
       "english": "Nidorino",
       "japanese": "ニドリーノ",
       "chinese": "尼多力诺",
@@ -676,6 +709,7 @@ const pokedex = [
   {
     "id": 34,
     "name": {
+      "deutsch": "Nidoking",
       "english": "Nidoking",
       "japanese": "ニドキング",
       "chinese": "尼多王",
@@ -697,6 +731,7 @@ const pokedex = [
   {
     "id": 35,
     "name": {
+      "deutsch": "Piepi",
       "english": "Clefairy",
       "japanese": "ピッピ",
       "chinese": "皮皮",
@@ -717,6 +752,7 @@ const pokedex = [
   {
     "id": 36,
     "name": {
+      "deutsch": "Pixi",
       "english": "Clefable",
       "japanese": "ピクシー",
       "chinese": "皮可西",
@@ -737,6 +773,7 @@ const pokedex = [
   {
     "id": 37,
     "name": {
+      "deutsch": "Vulpix",
       "english": "Vulpix",
       "japanese": "ロコン",
       "chinese": "六尾",
@@ -757,6 +794,7 @@ const pokedex = [
   {
     "id": 38,
     "name": {
+      "deutsch": "Vulnona",
       "english": "Ninetales",
       "japanese": "キュウコン",
       "chinese": "九尾",
@@ -777,6 +815,7 @@ const pokedex = [
   {
     "id": 39,
     "name": {
+      "deutsch": "Pummeluff",
       "english": "Jigglypuff",
       "japanese": "プリン",
       "chinese": "胖丁",
@@ -798,6 +837,7 @@ const pokedex = [
   {
     "id": 40,
     "name": {
+      "deutsch": "Knuddeluff",
       "english": "Wigglytuff",
       "japanese": "プクリン",
       "chinese": "胖可丁",
@@ -819,6 +859,7 @@ const pokedex = [
   {
     "id": 41,
     "name": {
+      "deutsch": "Zubat",
       "english": "Zubat",
       "japanese": "ズバット",
       "chinese": "超音蝠",
@@ -840,6 +881,7 @@ const pokedex = [
   {
     "id": 42,
     "name": {
+      "deutsch": "Golbat",
       "english": "Golbat",
       "japanese": "ゴルバット",
       "chinese": "大嘴蝠",
@@ -861,6 +903,7 @@ const pokedex = [
   {
     "id": 43,
     "name": {
+      "deutsch": "Myrapla",
       "english": "Oddish",
       "japanese": "ナゾノクサ",
       "chinese": "走路草",
@@ -882,6 +925,7 @@ const pokedex = [
   {
     "id": 44,
     "name": {
+      "deutsch": "Duflor",
       "english": "Gloom",
       "japanese": "クサイハナ",
       "chinese": "臭臭花",
@@ -903,6 +947,7 @@ const pokedex = [
   {
     "id": 45,
     "name": {
+      "deutsch": "Giflor",
       "english": "Vileplume",
       "japanese": "ラフレシア",
       "chinese": "霸王花",
@@ -924,6 +969,7 @@ const pokedex = [
   {
     "id": 46,
     "name": {
+      "deutsch": "Paras",
       "english": "Paras",
       "japanese": "パラス",
       "chinese": "派拉斯",
@@ -945,6 +991,7 @@ const pokedex = [
   {
     "id": 47,
     "name": {
+      "deutsch": "Parasek",
       "english": "Parasect",
       "japanese": "パラセクト",
       "chinese": "派拉斯特",
@@ -966,6 +1013,7 @@ const pokedex = [
   {
     "id": 48,
     "name": {
+      "deutsch": "Bluzuk",
       "english": "Venonat",
       "japanese": "コンパン",
       "chinese": "毛球",
@@ -987,6 +1035,7 @@ const pokedex = [
   {
     "id": 49,
     "name": {
+      "deutsch": "Omot",
       "english": "Venomoth",
       "japanese": "モルフォン",
       "chinese": "摩鲁蛾",
@@ -1008,6 +1057,7 @@ const pokedex = [
   {
     "id": 50,
     "name": {
+      "deutsch": "Digda",
       "english": "Diglett",
       "japanese": "ディグダ",
       "chinese": "地鼠",
@@ -1028,6 +1078,7 @@ const pokedex = [
   {
     "id": 51,
     "name": {
+      "deutsch": "Digdri",
       "english": "Dugtrio",
       "japanese": "ダグトリオ",
       "chinese": "三地鼠",
@@ -1048,6 +1099,7 @@ const pokedex = [
   {
     "id": 52,
     "name": {
+      "deutsch": "Mauzi",
       "english": "Meowth",
       "japanese": "ニャース",
       "chinese": "喵喵",
@@ -1068,6 +1120,7 @@ const pokedex = [
   {
     "id": 53,
     "name": {
+      "deutsch": "Snobilikat",
       "english": "Persian",
       "japanese": "ペルシアン",
       "chinese": "猫老大",
@@ -1088,6 +1141,7 @@ const pokedex = [
   {
     "id": 54,
     "name": {
+      "deutsch": "Enton",
       "english": "Psyduck",
       "japanese": "コダック",
       "chinese": "可达鸭",
@@ -1108,6 +1162,7 @@ const pokedex = [
   {
     "id": 55,
     "name": {
+      "deutsch": "Entoron",
       "english": "Golduck",
       "japanese": "ゴルダック",
       "chinese": "哥达鸭",
@@ -1128,6 +1183,7 @@ const pokedex = [
   {
     "id": 56,
     "name": {
+      "deutsch": "Menki",
       "english": "Mankey",
       "japanese": "マンキー",
       "chinese": "猴怪",
@@ -1148,6 +1204,7 @@ const pokedex = [
   {
     "id": 57,
     "name": {
+      "deutsch": "Rasaff",
       "english": "Primeape",
       "japanese": "オコリザル",
       "chinese": "火暴猴",
@@ -1168,6 +1225,7 @@ const pokedex = [
   {
     "id": 58,
     "name": {
+      "deutsch": "Fukano",
       "english": "Growlithe",
       "japanese": "ガーディ",
       "chinese": "卡蒂狗",
@@ -1188,6 +1246,7 @@ const pokedex = [
   {
     "id": 59,
     "name": {
+      "deutsch": "Arkani",
       "english": "Arcanine",
       "japanese": "ウインディ",
       "chinese": "风速狗",
@@ -1208,6 +1267,7 @@ const pokedex = [
   {
     "id": 60,
     "name": {
+      "deutsch": "Quapsel",
       "english": "Poliwag",
       "japanese": "ニョロモ",
       "chinese": "蚊香蝌蚪",
@@ -1228,6 +1288,7 @@ const pokedex = [
   {
     "id": 61,
     "name": {
+      "deutsch": "Quaputzi",
       "english": "Poliwhirl",
       "japanese": "ニョロゾ",
       "chinese": "蚊香君",
@@ -1248,6 +1309,7 @@ const pokedex = [
   {
     "id": 62,
     "name": {
+      "deutsch": "Quappo",
       "english": "Poliwrath",
       "japanese": "ニョロボン",
       "chinese": "蚊香泳士",
@@ -1269,6 +1331,7 @@ const pokedex = [
   {
     "id": 63,
     "name": {
+      "deutsch": "Abra",
       "english": "Abra",
       "japanese": "ケーシィ",
       "chinese": "凯西",
@@ -1289,6 +1352,7 @@ const pokedex = [
   {
     "id": 64,
     "name": {
+      "deutsch": "Kadabra",
       "english": "Kadabra",
       "japanese": "ユンゲラー",
       "chinese": "勇基拉",
@@ -1309,6 +1373,7 @@ const pokedex = [
   {
     "id": 65,
     "name": {
+      "deutsch": "Simsala",
       "english": "Alakazam",
       "japanese": "フーディン",
       "chinese": "胡地",
@@ -1329,6 +1394,7 @@ const pokedex = [
   {
     "id": 66,
     "name": {
+      "deutsch": "Machollo",
       "english": "Machop",
       "japanese": "ワンリキー",
       "chinese": "腕力",
@@ -1349,6 +1415,7 @@ const pokedex = [
   {
     "id": 67,
     "name": {
+      "deutsch": "Maschock",
       "english": "Machoke",
       "japanese": "ゴーリキー",
       "chinese": "豪力",
@@ -1369,6 +1436,7 @@ const pokedex = [
   {
     "id": 68,
     "name": {
+      "deutsch": "Machomei",
       "english": "Machamp",
       "japanese": "カイリキー",
       "chinese": "怪力",
@@ -1389,6 +1457,7 @@ const pokedex = [
   {
     "id": 69,
     "name": {
+      "deutsch": "knofensa",
       "english": "Bellsprout",
       "japanese": "マダツボミ",
       "chinese": "喇叭芽",
@@ -1410,6 +1479,7 @@ const pokedex = [
   {
     "id": 70,
     "name": {
+      "deutsch": "Ultrigaria",
       "english": "Weepinbell",
       "japanese": "ウツドン",
       "chinese": "口呆花",
@@ -1431,6 +1501,7 @@ const pokedex = [
   {
     "id": 71,
     "name": {
+      "deutsch": "Sarzenia",
       "english": "Victreebel",
       "japanese": "ウツボット",
       "chinese": "大食花",
@@ -1452,6 +1523,7 @@ const pokedex = [
   {
     "id": 72,
     "name": {
+      "deutsch": "Tentacha",
       "english": "Tentacool",
       "japanese": "メノクラゲ",
       "chinese": "玛瑙水母",
@@ -1473,6 +1545,7 @@ const pokedex = [
   {
     "id": 73,
     "name": {
+      "deutsch": "Tentoxa",
       "english": "Tentacruel",
       "japanese": "ドククラゲ",
       "chinese": "毒刺水母",
@@ -1494,6 +1567,7 @@ const pokedex = [
   {
     "id": 74,
     "name": {
+      "deutsch": "Kleinstein",
       "english": "Geodude",
       "japanese": "イシツブテ",
       "chinese": "小拳石",
@@ -1515,6 +1589,7 @@ const pokedex = [
   {
     "id": 75,
     "name": {
+      "deutsch": "Georok",
       "english": "Graveler",
       "japanese": "ゴローン",
       "chinese": "隆隆石",
@@ -1536,6 +1611,7 @@ const pokedex = [
   {
     "id": 76,
     "name": {
+      "deutsch": "Geowaz",
       "english": "Golem",
       "japanese": "ゴローニャ",
       "chinese": "隆隆岩",
@@ -1557,6 +1633,7 @@ const pokedex = [
   {
     "id": 77,
     "name": {
+      "deutsch": "Ponita",
       "english": "Ponyta",
       "japanese": "ポニータ",
       "chinese": "小火马",
@@ -1577,6 +1654,7 @@ const pokedex = [
   {
     "id": 78,
     "name": {
+      "deutsch": "Gallopa",
       "english": "Rapidash",
       "japanese": "ギャロップ",
       "chinese": "烈焰马",
@@ -1597,6 +1675,7 @@ const pokedex = [
   {
     "id": 79,
     "name": {
+      "deutsch": "Flegmon",
       "english": "Slowpoke",
       "japanese": "ヤドン",
       "chinese": "呆呆兽",
@@ -1618,6 +1697,7 @@ const pokedex = [
   {
     "id": 80,
     "name": {
+      "deutsch": "Lahmus",
       "english": "Slowbro",
       "japanese": "ヤドラン",
       "chinese": "呆壳兽",
@@ -1639,6 +1719,7 @@ const pokedex = [
   {
     "id": 81,
     "name": {
+      "deutsch": "Magnetilo",
       "english": "Magnemite",
       "japanese": "コイル",
       "chinese": "小磁怪",
@@ -1660,6 +1741,7 @@ const pokedex = [
   {
     "id": 82,
     "name": {
+      "deutsch": "Magneton",
       "english": "Magneton",
       "japanese": "レアコイル",
       "chinese": "三合一磁怪",
@@ -1681,6 +1763,7 @@ const pokedex = [
   {
     "id": 83,
     "name": {
+      "deutsch": "Porenta",
       "english": "Farfetch'd",
       "japanese": "カモネギ",
       "chinese": "大葱鸭",
@@ -1702,6 +1785,7 @@ const pokedex = [
   {
     "id": 84,
     "name": {
+      "deutsch": "Dodu",
       "english": "Doduo",
       "japanese": "ドードー",
       "chinese": "嘟嘟",
@@ -1723,6 +1807,7 @@ const pokedex = [
   {
     "id": 85,
     "name": {
+      "deutsch": "Dodri",
       "english": "Dodrio",
       "japanese": "ドードリオ",
       "chinese": "嘟嘟利",
@@ -1744,6 +1829,7 @@ const pokedex = [
   {
     "id": 86,
     "name": {
+      "deutsch": "Jurob",
       "english": "Seel",
       "japanese": "パウワウ",
       "chinese": "小海狮",
@@ -1764,6 +1850,7 @@ const pokedex = [
   {
     "id": 87,
     "name": {
+      "deutsch": "Jugong",
       "english": "Dewgong",
       "japanese": "ジュゴン",
       "chinese": "白海狮",
@@ -1785,6 +1872,7 @@ const pokedex = [
   {
     "id": 88,
     "name": {
+      "deutsch": "Sleima",
       "english": "Grimer",
       "japanese": "ベトベター",
       "chinese": "臭泥",
@@ -1805,6 +1893,7 @@ const pokedex = [
   {
     "id": 89,
     "name": {
+      "deutsch": "Sleimok",
       "english": "Muk",
       "japanese": "ベトベトン",
       "chinese": "臭臭泥",
@@ -1825,6 +1914,7 @@ const pokedex = [
   {
     "id": 90,
     "name": {
+      "deutsch": "Muschas",
       "english": "Shellder",
       "japanese": "シェルダー",
       "chinese": "大舌贝",
@@ -1845,6 +1935,7 @@ const pokedex = [
   {
     "id": 91,
     "name": {
+      "deutsch": "Austos",
       "english": "Cloyster",
       "japanese": "パルシェン",
       "chinese": "刺甲贝",
@@ -1866,6 +1957,7 @@ const pokedex = [
   {
     "id": 92,
     "name": {
+      "deutsch": "Nebulak",
       "english": "Gastly",
       "japanese": "ゴース",
       "chinese": "鬼斯",
@@ -1887,6 +1979,7 @@ const pokedex = [
   {
     "id": 93,
     "name": {
+      "deutsch": "Alpollo",
       "english": "Haunter",
       "japanese": "ゴースト",
       "chinese": "鬼斯通",
@@ -1908,6 +2001,7 @@ const pokedex = [
   {
     "id": 94,
     "name": {
+      "deutsch": "Gengar",
       "english": "Gengar",
       "japanese": "ゲンガー",
       "chinese": "耿鬼",
@@ -1929,6 +2023,7 @@ const pokedex = [
   {
     "id": 95,
     "name": {
+      "deutsch": "Onix",
       "english": "Onix",
       "japanese": "イワーク",
       "chinese": "大岩蛇",
@@ -1950,6 +2045,7 @@ const pokedex = [
   {
     "id": 96,
     "name": {
+      "deutsch": "Traumato",
       "english": "Drowzee",
       "japanese": "スリープ",
       "chinese": "催眠貘",
@@ -1970,6 +2066,7 @@ const pokedex = [
   {
     "id": 97,
     "name": {
+      "deutsch": "Hypno",
       "english": "Hypno",
       "japanese": "スリーパー",
       "chinese": "引梦貘人",
@@ -1990,6 +2087,7 @@ const pokedex = [
   {
     "id": 98,
     "name": {
+      "deutsch": "Krabby",
       "english": "Krabby",
       "japanese": "クラブ",
       "chinese": "大钳蟹",
@@ -2010,6 +2108,7 @@ const pokedex = [
   {
     "id": 99,
     "name": {
+      "deutsch": "Kingler",
       "english": "Kingler",
       "japanese": "キングラー",
       "chinese": "巨钳蟹",
@@ -2030,6 +2129,7 @@ const pokedex = [
   {
     "id": 100,
     "name": {
+      "deutsch": "Voltobal",
       "english": "Voltorb",
       "japanese": "ビリリダマ",
       "chinese": "霹雳电球",
@@ -2050,6 +2150,7 @@ const pokedex = [
   {
     "id": 101,
     "name": {
+      "deutsch": "Lektrobal",
       "english": "Electrode",
       "japanese": "マルマイン",
       "chinese": "顽皮雷弹",
@@ -2070,6 +2171,7 @@ const pokedex = [
   {
     "id": 102,
     "name": {
+      "deutsch": "Owei",
       "english": "Exeggcute",
       "japanese": "タマタマ",
       "chinese": "蛋蛋",
@@ -2091,6 +2193,7 @@ const pokedex = [
   {
     "id": 103,
     "name": {
+      "deutsch": "Kokowei",
       "english": "Exeggutor",
       "japanese": "ナッシー",
       "chinese": "椰蛋树",
@@ -2112,6 +2215,7 @@ const pokedex = [
   {
     "id": 104,
     "name": {
+      "deutsch": "Tragosso",
       "english": "Cubone",
       "japanese": "カラカラ",
       "chinese": "卡拉卡拉",
@@ -2132,6 +2236,7 @@ const pokedex = [
   {
     "id": 105,
     "name": {
+      "deutsch": "Knogga",
       "english": "Marowak",
       "japanese": "ガラガラ",
       "chinese": "嘎啦嘎啦",
@@ -2152,6 +2257,7 @@ const pokedex = [
   {
     "id": 106,
     "name": {
+      "deutsch": "Kicklee",
       "english": "Hitmonlee",
       "japanese": "サワムラー",
       "chinese": "飞腿郎",
@@ -2172,6 +2278,7 @@ const pokedex = [
   {
     "id": 107,
     "name": {
+      "deutsch": "Nockchan",
       "english": "Hitmonchan",
       "japanese": "エビワラー",
       "chinese": "快拳郎",
@@ -2192,6 +2299,7 @@ const pokedex = [
   {
     "id": 108,
     "name": {
+      "deutsch": "Schlurp",
       "english": "Lickitung",
       "japanese": "ベロリンガ",
       "chinese": "大舌头",
@@ -2212,6 +2320,7 @@ const pokedex = [
   {
     "id": 109,
     "name": {
+      "deutsch": "Smogon",
       "english": "Koffing",
       "japanese": "ドガース",
       "chinese": "瓦斯弹",
@@ -2232,6 +2341,7 @@ const pokedex = [
   {
     "id": 110,
     "name": {
+      "deutsch": "Smogmog",
       "english": "Weezing",
       "japanese": "マタドガス",
       "chinese": "双弹瓦斯",
@@ -2252,6 +2362,7 @@ const pokedex = [
   {
     "id": 111,
     "name": {
+      "deutsch": "Rihorn",
       "english": "Rhyhorn",
       "japanese": "サイホーン",
       "chinese": "独角犀牛",
@@ -2273,6 +2384,7 @@ const pokedex = [
   {
     "id": 112,
     "name": {
+      "deutsch": "Rizeros",
       "english": "Rhydon",
       "japanese": "サイドン",
       "chinese": "钻角犀兽",
@@ -2294,6 +2406,7 @@ const pokedex = [
   {
     "id": 113,
     "name": {
+      "deutsch": "Chaneira",
       "english": "Chansey",
       "japanese": "ラッキー",
       "chinese": "吉利蛋",
@@ -2314,6 +2427,7 @@ const pokedex = [
   {
     "id": 114,
     "name": {
+      "deutsch": "Tangela",
       "english": "Tangela",
       "japanese": "モンジャラ",
       "chinese": "蔓藤怪",
@@ -2334,6 +2448,7 @@ const pokedex = [
   {
     "id": 115,
     "name": {
+      "deutsch": "Kangama",
       "english": "Kangaskhan",
       "japanese": "ガルーラ",
       "chinese": "袋兽",
@@ -2354,6 +2469,7 @@ const pokedex = [
   {
     "id": 116,
     "name": {
+      "deutsch": "Seeper",
       "english": "Horsea",
       "japanese": "タッツー",
       "chinese": "墨海马",
@@ -2374,6 +2490,7 @@ const pokedex = [
   {
     "id": 117,
     "name": {
+      "deutsch": "Seemon",
       "english": "Seadra",
       "japanese": "シードラ",
       "chinese": "海刺龙",
@@ -2394,6 +2511,7 @@ const pokedex = [
   {
     "id": 118,
     "name": {
+      "deutsch": "Goldini",
       "english": "Goldeen",
       "japanese": "トサキント",
       "chinese": "角金鱼",
@@ -2414,6 +2532,7 @@ const pokedex = [
   {
     "id": 119,
     "name": {
+      "deutsch": "Golking",
       "english": "Seaking",
       "japanese": "アズマオウ",
       "chinese": "金鱼王",
@@ -2434,6 +2553,7 @@ const pokedex = [
   {
     "id": 120,
     "name": {
+      "deutsch": "Sterndu",
       "english": "Staryu",
       "japanese": "ヒトデマン",
       "chinese": "海星星",
@@ -2454,6 +2574,7 @@ const pokedex = [
   {
     "id": 121,
     "name": {
+      "deutsch": "Starmie",
       "english": "Starmie",
       "japanese": "スターミー",
       "chinese": "宝石海星",
@@ -2475,6 +2596,7 @@ const pokedex = [
   {
     "id": 122,
     "name": {
+      "deutsch": "Pantimos",
       "english": "Mr. Mime",
       "japanese": "バリヤード",
       "chinese": "魔墙人偶",
@@ -2496,6 +2618,7 @@ const pokedex = [
   {
     "id": 123,
     "name": {
+      "deutsch": "Sichlor",
       "english": "Scyther",
       "japanese": "ストライク",
       "chinese": "飞天螳螂",
@@ -2517,6 +2640,7 @@ const pokedex = [
   {
     "id": 124,
     "name": {
+      "deutsch": "Rossana",
       "english": "Jynx",
       "japanese": "ルージュラ",
       "chinese": "迷唇姐",
@@ -2538,6 +2662,7 @@ const pokedex = [
   {
     "id": 125,
     "name": {
+      "deutsch": "Elektek",
       "english": "Electabuzz",
       "japanese": "エレブー",
       "chinese": "电击兽",
@@ -2558,6 +2683,7 @@ const pokedex = [
   {
     "id": 126,
     "name": {
+      "deutsch": "Magmar",
       "english": "Magmar",
       "japanese": "ブーバー",
       "chinese": "鸭嘴火兽",
@@ -2578,6 +2704,7 @@ const pokedex = [
   {
     "id": 127,
     "name": {
+      "deutsch": "Pinsir",
       "english": "Pinsir",
       "japanese": "カイロス",
       "chinese": "凯罗斯",
@@ -2598,6 +2725,7 @@ const pokedex = [
   {
     "id": 128,
     "name": {
+      "deutsch": "Tauros",
       "english": "Tauros",
       "japanese": "ケンタロス",
       "chinese": "肯泰罗",
@@ -2618,6 +2746,7 @@ const pokedex = [
   {
     "id": 129,
     "name": {
+      "deutsch": "Karpador",
       "english": "Magikarp",
       "japanese": "コイキング",
       "chinese": "鲤鱼王",
@@ -2638,6 +2767,7 @@ const pokedex = [
   {
     "id": 130,
     "name": {
+      "deutsch": "Garados",
       "english": "Gyarados",
       "japanese": "ギャラドス",
       "chinese": "暴鲤龙",
@@ -2659,6 +2789,7 @@ const pokedex = [
   {
     "id": 131,
     "name": {
+      "deutsch": "Lapras",
       "english": "Lapras",
       "japanese": "ラプラス",
       "chinese": "拉普拉斯",
@@ -2680,6 +2811,7 @@ const pokedex = [
   {
     "id": 132,
     "name": {
+      "deutsch": "Ditto",
       "english": "Ditto",
       "japanese": "メタモン",
       "chinese": "百变怪",
@@ -2700,6 +2832,7 @@ const pokedex = [
   {
     "id": 133,
     "name": {
+      "deutsch": "Evoli",
       "english": "Eevee",
       "japanese": "イーブイ",
       "chinese": "伊布",
@@ -2720,6 +2853,7 @@ const pokedex = [
   {
     "id": 134,
     "name": {
+      "deutsch": "Aquana",
       "english": "Vaporeon",
       "japanese": "シャワーズ",
       "chinese": "水伊布",
@@ -2740,6 +2874,7 @@ const pokedex = [
   {
     "id": 135,
     "name": {
+      "deutsch": "Blitza",
       "english": "Jolteon",
       "japanese": "サンダース",
       "chinese": "雷伊布",
@@ -2760,6 +2895,7 @@ const pokedex = [
   {
     "id": 136,
     "name": {
+      "deutsch": "Flamara",
       "english": "Flareon",
       "japanese": "ブースター",
       "chinese": "火伊布",
@@ -2780,6 +2916,7 @@ const pokedex = [
   {
     "id": 137,
     "name": {
+      "deutsch": "Porygon",
       "english": "Porygon",
       "japanese": "ポリゴン",
       "chinese": "多边兽",
@@ -2800,6 +2937,7 @@ const pokedex = [
   {
     "id": 138,
     "name": {
+      "deutsch": "Amonitas",
       "english": "Omanyte",
       "japanese": "オムナイト",
       "chinese": "菊石兽",
@@ -2821,6 +2959,7 @@ const pokedex = [
   {
     "id": 139,
     "name": {
+      "deutsch": "Amoroso",
       "english": "Omastar",
       "japanese": "オムスター",
       "chinese": "多刺菊石兽",
@@ -2842,6 +2981,7 @@ const pokedex = [
   {
     "id": 140,
     "name": {
+      "deutsch": "Kabuto",
       "english": "Kabuto",
       "japanese": "カブト",
       "chinese": "化石盔",
@@ -2863,6 +3003,7 @@ const pokedex = [
   {
     "id": 141,
     "name": {
+      "deutsch": "Kabutops",
       "english": "Kabutops",
       "japanese": "カブトプス",
       "chinese": "镰刀盔",
@@ -2884,6 +3025,7 @@ const pokedex = [
   {
     "id": 142,
     "name": {
+      "deutsch": "Aerodactyl",
       "english": "Aerodactyl",
       "japanese": "プテラ",
       "chinese": "化石翼龙",
@@ -2905,6 +3047,7 @@ const pokedex = [
   {
     "id": 143,
     "name": {
+      "deutsch": "Relaxo",
       "english": "Snorlax",
       "japanese": "カビゴン",
       "chinese": "卡比兽",
@@ -2925,6 +3068,7 @@ const pokedex = [
   {
     "id": 144,
     "name": {
+      "deutsch": "Arktos",
       "english": "Articuno",
       "japanese": "フリーザー",
       "chinese": "急冻鸟",
@@ -2946,6 +3090,7 @@ const pokedex = [
   {
     "id": 145,
     "name": {
+      "deutsch": "Zapdos",
       "english": "Zapdos",
       "japanese": "サンダー",
       "chinese": "闪电鸟",
@@ -2967,6 +3112,7 @@ const pokedex = [
   {
     "id": 146,
     "name": {
+      "deutsch": "Lavados",
       "english": "Moltres",
       "japanese": "ファイヤー",
       "chinese": "火焰鸟",
@@ -2988,6 +3134,7 @@ const pokedex = [
   {
     "id": 147,
     "name": {
+      "deutsch": "Dratini",
       "english": "Dratini",
       "japanese": "ミニリュウ",
       "chinese": "迷你龙",
@@ -3008,6 +3155,7 @@ const pokedex = [
   {
     "id": 148,
     "name": {
+      "deutsch": "Dragonir",
       "english": "Dragonair",
       "japanese": "ハクリュー",
       "chinese": "哈克龙",
@@ -3028,6 +3176,7 @@ const pokedex = [
   {
     "id": 149,
     "name": {
+      "deutsch": "Dragoran",
       "english": "Dragonite",
       "japanese": "カイリュー",
       "chinese": "快龙",
@@ -3049,6 +3198,7 @@ const pokedex = [
   {
     "id": 150,
     "name": {
+      "deutsch": "Mewtu",
       "english": "Mewtwo",
       "japanese": "ミュウツー",
       "chinese": "超梦",
@@ -3069,6 +3219,7 @@ const pokedex = [
   {
     "id": 151,
     "name": {
+      "deutsch": "Mew",
       "english": "Mew",
       "japanese": "ミュウ",
       "chinese": "梦幻",
@@ -3089,6 +3240,7 @@ const pokedex = [
   {
     "id": 152,
     "name": {
+      "deutsch": "Endivie",
       "english": "Chikorita",
       "japanese": "チコリータ",
       "chinese": "菊草叶",
@@ -3109,6 +3261,7 @@ const pokedex = [
   {
     "id": 153,
     "name": {
+      "deutsch": "Lorblatt",
       "english": "Bayleef",
       "japanese": "ベイリーフ",
       "chinese": "月桂叶",
@@ -3129,6 +3282,7 @@ const pokedex = [
   {
     "id": 154,
     "name": {
+      "deutsch": "Meganie",
       "english": "Meganium",
       "japanese": "メガニウム",
       "chinese": "大竺葵",
